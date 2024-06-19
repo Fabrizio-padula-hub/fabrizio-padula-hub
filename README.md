@@ -1,4 +1,4 @@
-<img src="./banner/tramonto.jpg" width="100%" height='90' alt="tramonto" />
+<img src="./banner/tramonto.jpg" style="max-width: 100%;" alt="tramonto" />
 
 Fabrizio Padula
 =======================================================================================================================================
