@@ -1,4 +1,4 @@
-<img src="./banner/tramonto.jpg" width="36" height="36" alt="Laravel" />
+<img src="./banner/tramonto.jpg" width="100%" alt="tramonto" />
 
 Fabrizio Padula
 =======================================================================================================================================
