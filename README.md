@@ -4,15 +4,17 @@
 
 ### Software Architect & AI Integrator | Building Intelligent SaaS Solutions
 
-Non mi limito a scrivere codice: trasformo idee di business in prodotti scalabili. Attualmente guido lo sviluppo tecnologico presso **Nextbe**, dove progetto e implemento architetture software end-to-end, con un focus particolare sull'automazione e sull'integrazione di sistemi di **Intelligenza Artificiale Generativa**.
+Non mi limito a scrivere codice: seguo l'intero ciclo di vita di un prodotto, dal primo incontro col cliente fino al deploy in produzione. Lavoro presso **Nextbe**, dove raccolgo le esigenze dei clienti, propongo architetture e automazioni, sviluppo l'MVP, lo faccio approvare e lo porto in produzione — gestendo ogni fase in autonomia.
 
-**Cosa porto sul tavolo:**
+**Come lavoro:**
 
-🤖 **AI & Automation** — Progettazione di agenti intelligenti che utilizzano GPT e Gemini per la creazione di contenuti dinamici, riducendo drasticamente i tempi di operatività manuale.
+🗣️ **Discovery & consulenza** — Prima di scrivere una riga di codice, ascolto il cliente, analizzo il business, suggerisco funzionalità e automazioni su misura. L'obiettivo è costruire la cosa giusta, non solo costruirla bene.
 
-🧱 **Full Stack Development** — Padronanza completa del ciclo di vita del software, dal database al front-end, con particolare attenzione alle architetture SaaS.
+🧱 **Full Stack Development** — Stack principale: **Laravel + React / Next.js** con **Inertia.js**, containerizzati con **Docker**. Database **PostgreSQL** e **MySQL**, con supporto a **embedding** e **pgvector** per funzionalità AI-native.
 
-☁️ **Cloud & DevOps** — Gestione di infrastrutture moderne tramite AWS e containerizzazione con Docker, garantendo deploy rapidi e ambienti scalabili.
+🤖 **AI & Automation** — Integro **OpenAI**, **Gemini** e **Anthropic** per costruire agenti intelligenti e automatizzare processi operativi, riducendo drasticamente il lavoro manuale ripetitivo.
+
+☁️ **Cloud & DevOps** — Deploy su **AWS Lightsail** con backup giornalieri su **S3**, oppure su **Hetzner** via **Kamal 2**. Monitoraggio attivo del server con notifiche real-time su **Telegram** (CPU, memoria, downtime) e protezioni a livello infrastrutturale.
 
 ---
 
