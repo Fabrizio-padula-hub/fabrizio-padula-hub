@@ -26,4 +26,17 @@ Non mi limito a scrivere codice: trasformo idee di business in prodotti scalabil
 
 ### 👨‍💻 Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/fabrizio-padula-916382139" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/fabrizio-padula-916382139" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>&nbsp;<a href="https://www.potenza-ai.it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/potenza--ai.it-000000?style=flat&logo=safari&logoColor=white" alt="Website" height="32" /></a></p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabrizio-padula&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio-padula&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabrizio-padula&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
