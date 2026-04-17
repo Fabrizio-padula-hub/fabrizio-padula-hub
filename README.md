@@ -26,7 +26,7 @@ Non mi limito a scrivere codice: trasformo idee di business in prodotti scalabil
 
 ### 👨‍💻 Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/fabrizio-padula-916382139" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>&nbsp;<a href="https://www.potenza-ai.it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/potenza--ai.it-000000?style=flat&logo=safari&logoColor=white" alt="Website" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/fabrizio-padula-916382139" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>&nbsp;<a href="https://www.potenza-ai.it/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/🌐%20potenza--ai.it-Visit%20Website-6e40c9?style=for-the-badge" alt="Website" /></a></p>
 
 ---
 
